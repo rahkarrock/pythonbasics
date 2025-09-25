@@ -7,5 +7,6 @@ print("abhi is good boy")
 print("Karthik is smart")
 print("Devops is skillful")
 print("Aws is a leading cloud platform")
+print("Terraform is IAAC")
 
 
