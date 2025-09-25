@@ -1,13 +1,21 @@
 
 print("Hello world")
 print("Lets go to cinema")
+print("Programming is interesting")
+print("Programming is interesting")
+print("Programming is interesting")
 print("Let's go to lunch")
+print("Programming is interesting")
+print("Programming is interesting")
+print("Programming is interesting")
 print("Let's got for dinner")
 print("abhi is good boy")
 print("Karthik is smart")
+print("Programming is interesting")
+print("Programming is interesting")
+print("Programming is interesting")
 print("Devops is skillful")
 print("Aws is a leading cloud platform")
 print("Programming is interesting")
-
-
-
+print("Programming is interesting")
+print("Programming is interesting")
